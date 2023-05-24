@@ -1,16 +1,30 @@
-### Hi there 👋
+👋 Hello! Welcome to my Github profile.
+ My name is Jennifer and my nickname is "Jenny"!
 
-<!--
-**JenniferC25/JenniferC25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 I’m currently learning Python language.
 
-Here are some ideas to get you started:
+📔 I am learning:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/> 
+
+💎Contacts:
+<div>
+<a href="https://instagram.com/jenni-martins25" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "mailto:cristinajennifer391@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/jennifer-c-martins-b73400222" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
+
+
+<div>
+<a href="https://github.com/JenniferC25">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JenniferC25&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+  
+<div>
+<a href="https://tenor.com/biPI7.gif>
+<img height="180em" src="https://tenor.com/biPI7.gif"/>
+</div>
+          
+![Snake animation](https://github.com/JenniferC25/JenniferC25/blob/output/github-contribution-grid-snake.svg)
+
+           
