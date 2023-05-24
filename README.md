@@ -25,6 +25,4 @@
 <img height="180em" src="https://tenor.com/biPI7.gif"/>
 </div>
           
-![Snake animation](https://github.com/JenniferC25/JenniferC25/blob/output/github-contribution-grid-snake.svg)
 
-           
