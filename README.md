@@ -15,14 +15,5 @@
 </div>
 
 
-<div>
-<a href="https://github.com/JenniferC25">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JenniferC25&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
-  
-<div>
-<a href="https://tenor.com/biPI7.gif>
-<img height="180em" src="https://tenor.com/biPI7.gif"/>
-</div>
-          
+
 
