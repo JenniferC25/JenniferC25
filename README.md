@@ -1,9 +1,7 @@
 👋 Hello! Welcome to my Github profile.
  My name is Jennifer and my nickname is "Jenny"!
 
-🌱 I’m currently learning Python language.
-
-📔 I am learning:
+📔  I’m currently learning Python language:
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/> 
 
